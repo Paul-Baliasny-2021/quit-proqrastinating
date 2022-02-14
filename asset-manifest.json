@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quit-proqrastinating/static/css/main.5ae21ef4.chunk.css",
+    "main.js": "/quit-proqrastinating/static/js/main.0fd04267.chunk.js",
+    "main.js.map": "/quit-proqrastinating/static/js/main.0fd04267.chunk.js.map",
+    "runtime-main.js": "/quit-proqrastinating/static/js/runtime-main.64938083.js",
+    "runtime-main.js.map": "/quit-proqrastinating/static/js/runtime-main.64938083.js.map",
+    "static/js/2.d21ab177.chunk.js": "/quit-proqrastinating/static/js/2.d21ab177.chunk.js",
+    "static/js/2.d21ab177.chunk.js.map": "/quit-proqrastinating/static/js/2.d21ab177.chunk.js.map",
+    "static/js/3.ea5d2a0b.chunk.js": "/quit-proqrastinating/static/js/3.ea5d2a0b.chunk.js",
+    "static/js/3.ea5d2a0b.chunk.js.map": "/quit-proqrastinating/static/js/3.ea5d2a0b.chunk.js.map",
+    "index.html": "/quit-proqrastinating/index.html",
+    "static/css/main.5ae21ef4.chunk.css.map": "/quit-proqrastinating/static/css/main.5ae21ef4.chunk.css.map",
+    "static/js/2.d21ab177.chunk.js.LICENSE.txt": "/quit-proqrastinating/static/js/2.d21ab177.chunk.js.LICENSE.txt",
+    "static/media/github.c2b3aafb.svg": "/quit-proqrastinating/static/media/github.c2b3aafb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64938083.js",
+    "static/js/2.d21ab177.chunk.js",
+    "static/css/main.5ae21ef4.chunk.css",
+    "static/js/main.0fd04267.chunk.js"
+  ]
+}
